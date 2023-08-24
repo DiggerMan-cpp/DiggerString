@@ -1,4 +1,4 @@
-[![Windows]](https://github.com/DiggerMan-cpp/DiggerString/blob/main/.github/workflows/cmake-single-platform.yml)
+[![Windows](https://github.com/DiggerMan-cpp/DiggerString/blob/main/.github/workflows/cmake-single-platform.yml/badge.svg)](https://github.com/DiggerMan-cpp/DiggerString/actions/runs/5958099662/workflow)
 # DiggerString
 Easy String Manipulation
 Окей! Похоже, что вам нужна документация на эти функции. Вот подробное описание каждой из них:
