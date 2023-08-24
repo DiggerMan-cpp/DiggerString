@@ -1,6 +1,6 @@
 #include <DiggerString.h>
 namespace DiggerString {
-    static int countWords(const std::string& str) {
+     int DiggerString::countWords(const std::string& str) {
         std::istringstream iss(str);
         int count = 0;
         std::string word;
