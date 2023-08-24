@@ -1,0 +1,2 @@
+# DiggerString
+Easy String Manipulation
