@@ -22,7 +22,7 @@ namespace DiggerString {
         static int count(const std::string& str, char character);
         static bool startsWith(const std::string& str, const std::string& prefix);
         static bool endsWith(const std::string& str, const std::string& suffix);
-        static std::string reverse(const std::string& str);
+        
         static std::string join(const std::vector<std::string>& strings, const std::string& delimiter);
         static bool isNumeric(const std::string& str);
         static std::string toLower(const std::string& str);
