@@ -29,7 +29,7 @@ namespace DiggerString {
         static std::string toUpper(const std::string& str);
         static bool contains(const std::string& str, const std::string& subStr);
         static std::string replaceAll(const std::string& str, const std::string& search, const std::string& replacement);
-        static bool isPalindrome(const std::string& str);
+     
         static std::string pad(const std::string& str, int width, char paddingChar);
         static bool isEmpty(const std::string& str);
         static std::string substring(const std::string& str, int startIndex, int length);
