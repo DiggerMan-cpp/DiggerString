@@ -1,6 +1,5 @@
 # DiggerString
 Easy String Manipulation
-Окей! Похоже, что вам нужна документация на эти функции. Вот подробное описание каждой из них:
 
 #### `countWords(const std::string& str)`
 
