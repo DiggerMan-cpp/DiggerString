@@ -32,7 +32,7 @@ namespace DiggerString {
      
         static std::string pad(const std::string& str, int width, char paddingChar);
         static bool isEmpty(const std::string& str);
-        static std::string substring(const std::string& str, int startIndex, int length);
+        
         static int toInt(const std::string& str);
         static double toDouble(const std::string& str);
         static std::string reverseWords(const std::string& str);
