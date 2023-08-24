@@ -1,6 +1,6 @@
 #include <DiggerString.h>
 namespace DiggerString {
-    static std::string capitalizeWords(const std::string& str) {
+     std::string DiggerString::capitalizeWords(const std::string& str) {
         std::istringstream iss(str);
         std::string result, word;
         while (iss >> word) {
