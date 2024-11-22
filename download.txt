@@ -1,1 +1,0 @@
-https://github.com/DiggerMan-cpp/DiggerString/archive/refs/tags/v1.0.zip
